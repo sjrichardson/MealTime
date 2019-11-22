@@ -1,0 +1,22 @@
+.profile {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin: 36px;
+  text-align: left;
+}
+
+.card-profile {
+  width: 420px;
+  height: auto;
+}
+
+.card-profile__form {
+  width: 420px;
+  height: auto;
+}
+
+.info-card {
+  margin: 36px;
+  font-weight: bold;
+}

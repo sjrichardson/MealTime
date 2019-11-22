@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+
+.title {
+    font-family: 'Roboto Slab', serif;
+    margin-bottom: 20px;
+    color: black;
+}
+
+.left-hover {
+    margin-left: 150px;
+}
+
+.restaurant {
+    margin-left: 50px;
+    margin-right: 50px;
+    border: solid 1px grey;
+    background: #eeeeee;
+    border-radius: 10px;
+    margin-top: 50px;
+    height: 190px;
+    text-align: left;
+    font-family: 'Roboto Slab', serif;
+}
+
+.restaurant-address {
+    color: grey;
+    font-size: 14px;
+}
+.restaurant-image {
+    float: left;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+    max-height: 125px;
+}
+.restaurant-image-sm {
+    height: 85px;
+    width: 85px;
+    float: left;
+}
+
+.right {
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.restaurant-buttons {
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.centered-input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.left-42 {
+    margin-left: 42%;
+}
+
+.selected-item-row {
+    border-top: 1px solid darkgrey;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+p {
+    color: grey;
+    font-style: italic;
+}
+
+.removeButton {
+    margin-top: 5px;
+}
+
+.btn-group {
+    margin-right: 5px;
+}
+
+.input-group .form-control {
+    margin: 0px !important;
+}
+
+.your-day-total {
+    margin-bottom: 20px !important;
+}
+
+.biggerLabel {
+    font-size: 20px;
+}
+
+.breakfast-container {
+    border: solid lightgreen 1px;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.lunch-container {
+    border: solid blue 1px;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.dinner-container {
+    border: solid turquoise 1px;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.snack-container {
+    border: solid orangered 1px;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.recipe-container {
+    border: solid 1px grey;
+    border-radius: 5px;
+    margin-top: 10px;
+    text-align: left;
+    padding: 10px;
+}
+
+.favorite-btn {
+    color: white;
+    float: right;
+}
+
+.favorite-card {
+    height: 100%;
+    padding: 10px;
+}
+
+.favoriteItem {
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    border: solid 1px grey;
+    background: lavender;
+}
+
+.favoriteItemRight {
+    border-radius: 5px;
+    border: solid 1px grey;
+    background: lavender;
+    margin: 5px;
+    padding: 10px;
+}
+
+.favoritesText {
+    margin: 2px;
+}
